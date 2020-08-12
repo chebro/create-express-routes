@@ -2,7 +2,9 @@
   "name": "create-express-routes",
   "version": "1.0.0",
   "description": "A commandline application to automatically generate expressjs routes for you",
-  "main": "index.js",
+  "bin": {
+    "create-express-routes": "./bin/index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
