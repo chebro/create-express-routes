@@ -1,0 +1,22 @@
+{
+  "name": "create-express-routes",
+  "version": "1.0.0",
+  "description": "A commandline application to automatically generate expressjs routes for you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sravanth-chebrolu/create-express-routes.git"
+  },
+  "author": "sravanth-chebrolu, radiantly",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/sravanth-chebrolu/create-express-routes/issues"
+  },
+  "homepage": "https://github.com/sravanth-chebrolu/create-express-routes#readme",
+  "dependencies": {
+    "yargs": "^15.4.1"
+  }
+}
